@@ -1,2 +1,6 @@
 /* give your assignment a fun background color */
 body {background-color: #c29591;}
+
+li {padding: 1rem;
+    width: 37rem;
+}
